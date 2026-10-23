@@ -1,7 +1,6 @@
 import com.calculator.Calculator;
 import com.strategy.AddStrategy;
 import com.strategy.MultiplyStrategy;
-import com.strategy.OperationStrategy;
 import com.strategy.SubtractStrategy;
 
 public class Main {
