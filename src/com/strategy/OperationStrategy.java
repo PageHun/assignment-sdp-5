@@ -1,5 +1,5 @@
 package com.strategy;
 
 public interface OperationStrategy {
-    public int doOperation(int num1, int num2);
+    int doOperation(int firstNumber, int secondNumber);
 }
